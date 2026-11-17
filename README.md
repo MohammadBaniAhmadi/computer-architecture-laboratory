@@ -1,4 +1,4 @@
-# Computer Architecture Laboratory — GitHub-ready projects
+# Computer Architecture Laboratory
 
 This bundle contains **nine independent Proteus projects**, each in its own repository-ready directory. Every project includes its original `.pdsprj` schematic file, an original report, supporting memory files where supplied, a project-specific README, and `.gitignore`.
 
@@ -35,5 +35,3 @@ Repeat from the other eight folders, changing the GitHub repository URL accordin
 - **Proteus Design Suite** is required to open/edit/simulate `.pdsprj` files. These are not Logisim projects or source code that can run in GitHub itself.
 - Original `.pdsprj` files were not modified or converted. Only folder organization and documentation were added.
 - Original PDFs can contain student names/IDs. Review their contents and obtain collaborators’ approval before making the repositories public.
-- No license has been added because project-sharing and reuse terms have not been provided.
-- Circuit simulations were **not** rerun; only ZIP and project-container integrity was checked.
