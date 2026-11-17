@@ -1,0 +1,10 @@
+experiment,repository_folder,original_uploaded_zip,native_proteus_project,items_including_directories
+1,lab01-bcd-adder,4_5933494854112779830.zip,bcd_adder.pdsprj,5
+2,lab02-carry-select-adder,4_5933494854112779831.zip,az2.pdsprj,6
+3,lab03-shift-and-add-multiplier,4_5933494854112779832.zip,shift_and_add.pdsprj,5
+4,lab04-floating-point-adder-subtractor,4_5933494854112779833.zip,p4.pdsprj,5
+5,lab05-bcd-to-binary,4_5933494854112779834.zip,bcd_to_binary.pdsprj,5
+6,lab06-8bit-register-alu,4_5933494854112779835.zip,p6.pdsprj,5
+7,lab07-eprom-fibonacci,4_5933494854112779836.zip,p7.pdsprj,6
+8,lab08-8bit-computer,CAL_7.zip,CAL_7.pdsprj,10
+9,lab09-microprogrammed-control,CAL_9.zip,CAL_9.pdsprj,13
